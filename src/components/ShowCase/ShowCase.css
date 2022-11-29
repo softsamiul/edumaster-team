@@ -1,0 +1,6 @@
+.showcase-img {
+  transition: all ease-in 0.5s;
+}
+.showcase-img:hover {
+  transform: scale(1.05);
+}

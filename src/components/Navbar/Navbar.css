@@ -1,0 +1,8 @@
+.navbar .nav-item {
+  transition: all ease-in 0.5s;
+}
+.navbar .nav-item:hover {
+  background: #120e43;
+  padding: 7px 15px;
+  border-radius: 5px;
+}

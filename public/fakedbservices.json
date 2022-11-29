@@ -1,0 +1,26 @@
+[
+  {
+    "serviceId": 1,
+    "title": "Daily Live Class",
+    "strDesc": "Talk with instructors, ask questions, answer live polls, and get your doubts cleared - all while the class is going on",
+    "strImg": "https://icegateinstitute.s3.ap-south-1.amazonaws.com/wp-content/uploads/2018/05/26123311/Live-Class.jpg"
+  },
+  {
+    "serviceId": 2,
+    "title": "Practice and revise",
+    "strDesc": "Learning isn't just limited to classes with our practice section, mock tests and lecture notes shared as PDFs for your revision",
+    "strImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlCvgCQrPBMexqkFlroAiWOanQIbcrUWWFg&usqp=CAU"
+  },
+  {
+    "serviceId": 3,
+    "title": "Quality Contect, Experienced Instructor",
+    "strDesc": "You can access to all our live and recorded classes to watch from the comfort of any of your devices",
+    "strImg": "https://www.readycloud.com/wp-content/uploads/2016/08/14.jpg"
+  },
+  {
+    "serviceId": 4,
+    "title": "Learn anything, anywhere",
+    "strDesc": "You can access to all our live and recorded classes to watch from the comfort of any of your devices",
+    "strImg": "https://www.onlinetrainingadvantage.com/wp-content/uploads/2016/12/laptop-beach-cropped.jpg"
+  }
+]

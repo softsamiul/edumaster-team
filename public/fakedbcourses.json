@@ -1,0 +1,101 @@
+[
+  {
+    "courseId": 1,
+    "courseName": "Mastering Web Development With React & Node JS",
+    "instructor": "Alex born",
+    "duration": "65 hour",
+    "classes": 51,
+    "project": 11,
+    "type": "Beginner",
+    "price": 7999,
+    "thumbnail": "https://i.morioh.com/2020/01/15/6640aca6fdbd.jpg"
+  },
+  {
+    "courseId": 2,
+    "courseName": "Advance Data Structure & Algorithm",
+    "instructor": "Subarna Islam",
+    "duration": "121 hour",
+    "classes": 111,
+    "project": 13,
+    "type": "Intermediate",
+    "price": 9999,
+    "thumbnail": "https://miro.medium.com/max/1400/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg"
+  },
+  {
+    "courseId": 3,
+    "courseName": "Complete Mechine Learning With Python",
+    "instructor": "Dev Emdad",
+    "duration": "111 hour",
+    "classes": 101,
+    "project": 9,
+    "type": "Intermediate",
+    "price": 8999,
+    "thumbnail": "https://miro.medium.com/max/1024/1*k5LiTi5lt_ND02kaBT_SAA.jpeg"
+  },
+  {
+    "courseId": 4,
+    "courseName": "Let's Introduce With Robotics (Mini Bootcamp)",
+    "instructor": "Khadija Bint Abdul",
+    "duration": "25 hour",
+    "classes": 19,
+    "project": 7,
+    "type": "Beginner",
+    "price": "Free",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201102192324/Top-Applications-of-Robotics-in-2020.png"
+  },
+  {
+    "courseId": 5,
+    "courseName": "Mastering Digital Marketing",
+    "instructor": "Nurunnahar Sagor",
+    "duration": "49 hour",
+    "classes": 43,
+    "project": 9,
+    "type": "Beginner",
+    "price": 3999,
+    "thumbnail": "https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/images/media/images/digital-marketing-trends-2021-digital-marketing.png"
+  },
+  {
+    "courseId": 6,
+    "courseName": "Cracking Programming Interview Hacks",
+    "instructor": "Tonni Akhter",
+    "duration": "19 hour",
+    "classes": 17,
+    "project": 3,
+    "type": "Advance",
+    "price": 1999,
+    "thumbnail": "https://simplienglish.com/wp-content/uploads/2019/09/thumbnail-min.png.webp"
+  },
+  {
+    "courseId": 7,
+    "courseName": "Advance Apps Development",
+    "instructor": "Adil Mohd. Rion",
+    "duration": "69 hour",
+    "classes": 57,
+    "project": 19,
+    "type": "Intermediate",
+    "price": 7999,
+    "thumbnail": "https://peerbits-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/mobile-app-development-trends-main.jpg"
+  },
+  {
+    "courseId": 8,
+    "courseName": "Think In A React Way",
+    "instructor": "Abu Hasan Rana",
+    "duration": "17 hour",
+    "classes": 13,
+    "project": 3,
+    "type": "Intermediate",
+    "price": 2999,
+    "thumbnail": "https://peerbits-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/the-benefits-of-reactjs-main.jpg"
+  },
+  {
+    "courseId": 9,
+    "courseName": "Competitive Programming Hacks",
+    "instructor": "Farhan Ahmed",
+    "duration": "21 hour",
+    "classes": 17,
+    "project": 3,
+    "type": "Intermediate",
+    "price": 999,
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201103172453/Competitive-Programming-Myths-and-Mind-Blowing-Facts.png"
+  }
+]
